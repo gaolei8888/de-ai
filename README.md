@@ -1,4 +1,10 @@
-# de-ai
+# 点睛 de-ai
+
+**AI 生成，点睛完成。**
+
+项目定位：多模态 AI 作品精修引擎，覆盖文字、语音、影像、软件 UI。当前只实现文本静态规则、HTML 静态规则和本地 Playwright UI 审查 CLI；语音、视频和自动修复仍在规划中。
+
+开发指南：[本地运行](docs/DEVELOPMENT.md) · [界面点睛](docs/UI_AUDIT.md) · [多模态设计](docs/MULTIMODAL_PRODUCT_DESIGN.md)
 
 面向真实作者表达的 AI 内容质量引擎（Writing Quality Engine）。
 
